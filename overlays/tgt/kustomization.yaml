@@ -1,0 +1,8 @@
+resources:
+- ../../base
+
+namespace: demo
+
+replicas:
+- name: nginx-demo
+  count: 3
