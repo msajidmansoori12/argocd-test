@@ -5,4 +5,4 @@ namespace: demo
 
 replicas:
 - name: nginx-demo
-  count: 3
+  count: 1
